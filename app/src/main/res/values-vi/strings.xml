@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NoteAppDemo</string>
+
+    <string name="event">Sự kiện</string>
+    <string name="reminder">Lời nhắc</string>
+    <string name="memorize">Ghi nhớ</string>
+
+    <string name="title">Tiêu đề:</string>
+    <string name="date">Ngày:</string>
+    <string name="time">Giờ:</string>
+    <string name="content">Nội dung:</string>
+
+    <string name="type_title">Nhập tiêu đề</string>
+    <string name="input_date">Chọn ngày trên lịch</string>
+    <string name="hour">giờ</string>
+    <string name="minute">phút</string>
+    <string name="content_optional">(Không bắt buộc)</string>
+    <string name="add_event">Thêm Sự kiện</string>
+    <string name="cancel">Trở lại</string>
+    <string name="title_alert">Hãy nhập tiêu đề!</string>
+    <string name="date_alert">Hãy chọn ngày!</string>
+    <string name="content_alert">Hãy nhập nội dung!</string>
+    <string name="time_duplicated">Giờ bị trùng lặp!</string>
+
+    <string name="no_event">Không có sự kiện nào</string>
+
+    <string name="edit_option">Sửa</string>
+    <string name="delete_option">Xóa</string>
+
+    <string name="delete_confirm">Bạn có muốn xóa không?</string>
+    <string name="yes_option">Có</string>
+    <string name="no_option">Không</string>
+
+    <string name="update_event">Cập nhật</string>
+
+    <string name="type_content">Nhập nội dung</string>
+    <string name="add_memo">Thêm Ghi nhớ</string>
+</resources>

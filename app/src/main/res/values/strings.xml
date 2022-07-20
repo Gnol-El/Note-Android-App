@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NoteAppDemo</string>
+
+    <string name="event">Event</string>
+    <string name="reminder">Reminder</string>
+    <string name="memorize">Memorize</string>
+
+    <string name="title">Title:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="content">Content:</string>
+
+    <string name="type_title">Type title</string>
+    <string name="input_date">Select date on calendar</string>
+    <string name="hour">hour</string>
+    <string name="minute">minute</string>
+    <string name="content_optional">(Optional)</string>
+    <string name="add_event">Add Event</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_alert">Please enter title!</string>
+    <string name="date_alert">Please select date!</string>
+    <string name="content_alert">Please enter content!</string>
+    <string name="time_duplicated">Duplicated time!</string>
+
+    <string name="no_event">No Event Available</string>
+
+    <string name="edit_option">Edit</string>
+    <string name="delete_option">Delete</string>
+
+    <string name="delete_confirm">Are you sure?</string>
+    <string name="yes_option">Yes</string>
+    <string name="no_option">No</string>
+
+    <string name="update_event">Update</string>
+
+    <string name="type_content">Type content</string>
+    <string name="add_memo">Add Memorize</string>
+</resources>
